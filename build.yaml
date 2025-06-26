@@ -19,7 +19,5 @@
 #
 ---
 include:
-  - board: nrf52840dk_nrf52840
-    shield: sofle_left
-  - board: nrf52840dk_nrf52840
-    shield: sofle_right
+  - board: nrf52840_mdk_usb_dongle
+    shield: sofle_dongle
